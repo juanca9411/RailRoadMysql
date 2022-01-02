@@ -1,0 +1,3 @@
+url=jdbc:mysql://localhost/railroad?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrival=true
+username=root
+password=root
